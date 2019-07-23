@@ -1,6 +1,6 @@
 # Werthners Original
 
-![Image of quirin_lab](C:\Users\quiri\Documents\GitHub\WerthnerQuirin.github.io\quirin_lab.jpg)
+![Image of quirin_lab](quirin_lab.jpg)
 
 ## Biography
 
