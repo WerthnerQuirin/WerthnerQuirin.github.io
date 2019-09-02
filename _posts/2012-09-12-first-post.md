@@ -7,3 +7,7 @@ Nearly every case of invasive cervical cancer is caused by a prior Human Papillo
 
 Therefore, I am working on a mathematical network model to describe the spreading of cervical cancer throughout the German population to find better ways to tackle this epidemic. 
 A network approach allows the modelling of individuals as separate nodes and dynamic stochastic processes which might lead to a more precise and flexible modelling of individual interactions and impact of interventions. The sexual network strongly relies on exponential random graph modeling which allows relationships to form and dissolve stochastically.
+
+If you are interested here is a poster I showed at the Population Approach Group Europe (PAGE) meeting in Stockholm in 2019.
+[-> Page-Poster](C:/Users/quiri/Documents/GitHub/WerthnerQuirin.github.io/assets/PAGE_2019_Poster_Quirin.pdf) 
+
