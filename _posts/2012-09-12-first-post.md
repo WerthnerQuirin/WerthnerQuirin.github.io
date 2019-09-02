@@ -1,0 +1,13 @@
+---
+title: PRÄZIS - Mathematical modeling of HPV 
+author: Quirin Werthner
+layout: post
+---
+Nearly every case of invasive cervical cancer is caused by a prior Human Papilloma Virus (HPV) infection. There are over 170 known HPV types of variing cancerogenity. The types are often devided into groups of high- and lowrisk types. Especially the strains 16 and 18 are responsible for 70% of all cervical cancer cases with other highrisk types ammounting to another 60- 90% of the other cases. In Germany this comes down to about 5000 women developing cervical cancer every year which is associated with 1600 deaths. For this reason the Standing Committee on Vaccination (STIKO) recommends vaccinations for women between the ages of 9 - 14 and since Juli 2018 for men as well. At the same time it can't be stressed enough that whilest vaccinations are an amazing tool to battle cervical cancer, even vaccinations are not a definitive bulwark against cancer.
+
+Therefore, I am working on a mathematical network model to describe the spreading of cervical cancer throughout the German population to find better ways to tackle this epidemic. 
+A network approach allows the modelling of individuals as separate nodes and dynamic stochastic processes which might lead to a more precise and flexible modelling of individual interactions and impact of interventions. The sexual network strongly relies on exponential random graph modeling which allows relationships to form and dissolve stochastically.
+
+If you are interested here is a poster I showed at the Population Approach Group Europe (PAGE) meeting in Stockholm in 2019.
+
+[-> Page-Poster](C:/Users/quiri/Documents/GitHub/WerthnerQuirin.github.io/assets/PAGE_2019_Poster_Quirin.pdf) 
