@@ -40,7 +40,7 @@ email: werthner.quirin@gmx.de
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/Werthners-Original/" # the subpath of your site, e.g. /blog
+baseurl: "/Werthners-Original" # the subpath of your site, e.g. /blog
 url: "https://werthnerquirin.github.io" # the base hostname & protocol for your site
 
 # Social settings
