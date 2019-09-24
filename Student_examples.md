@@ -14,9 +14,9 @@ SI model with added vital dynamics
 [-> SI-Movie](https://werthnerquirin.github.io/Werthners-Original/assets/SI.html) 
 
 ## SI-Model with vaccinations 
-In comparison here individuals entering the system have a 60% propability of beeing vaccinated which in turn decreases the probaility of becoming infected when embarking on a relationship with an infected individual.
- [-> SI with vaccination-Movie](https://werthnerquirin.github.io/Werthners-Original/assets/SI_vac.html) 
+In comparison here individuals entering the system have a 60% propability of beeing vaccinated which in turn decreases the probaility of becoming infected when embarking on a relationship with an infected individual
+[-> SI with vaccination-Movie](https://werthnerquirin.github.io/Werthners-Original/assets/SI_vac.html) 
 
- ## SIR-Model with vaccinations
- Similar to the model above individuals can enter the system vaccinated but additionally infected people can recover from an infection and can afterwards become suseptible to new infection.
-  [-> SIR with vaccination-Movie](https://werthnerquirin.github.io/Werthners-Original/assets/SIR_vac2.html)
+## SIR-Model with vaccinations
+Similar to the model above individuals can enter the system vaccinated but additionally infected people can recover from an infection and can afterwards become suseptible to new infection
+[-> SIR with vaccination-Movie](https://werthnerquirin.github.io/Werthners-Original/assets/SIR_vac2.html)
