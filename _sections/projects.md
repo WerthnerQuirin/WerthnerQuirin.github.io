@@ -1,6 +1,6 @@
 ---
 title: Projects
-icon: fa-pencil
+icon: fa-pencil-alt
 order: 3
 ---
 # PRÄZIS
