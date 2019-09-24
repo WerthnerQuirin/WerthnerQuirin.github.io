@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export SI.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st15">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {marker-end:url(#mrkr4-6);stroke:#3f3f3f;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st2 {fill:#3f3f3f;fill-opacity:1;stroke:#3f3f3f;stroke-opacity:1;stroke-width:0.44247787610619}
+		.st3 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st4 {fill:#3f3f3f;font-family:Calibri;font-size:1.33333em;font-weight:bold}
+		.st5 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st6 {fill:#8da0cb;stroke:#757096;stroke-width:2}
+		.st7 {visibility:visible}
+		.st8 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st9 {fill:#d97e00;fill-opacity:0.75;stroke:#d95f02;stroke-width:2}
+		.st10 {fill:#ffffff;stroke:#d95f02;stroke-width:2}
+		.st11 {fill:#d95f02;font-family:Calibri;font-size:1.5em;font-weight:bold}
+		.st12 {fill:#ffffff;stroke:#3f3f3f;stroke-width:2}
+		.st13 {fill:#ffffff;stroke:#757096;stroke-width:2}
+		.st14 {fill:#757096;font-family:Calibri;font-size:1.5em;font-weight:bold}
+		.st15 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-6" class="st2" v:arrowType="4" v:arrowSize="2" v:setback="4.52" refX="-4.52" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.26,-2.26) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Verbinder" v:index="0"/>
+		<g id="shape33-1" v:mID="33" v:groupContext="shape" v:layerMember="0" transform="translate(336.791,-204.712)">
+			<title>Dynamischer Verbinder.33</title>
+			<desc>From all stages</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="66.6142" cy="588.189" width="111.12" height="27.2039"/>
+			<path d="M0 588.6 L124.19 587.83" class="st1"/>
+			<rect v:rectContext="textBkgnd" x="16.8683" y="578.589" width="99.4916" height="19.2005" class="st3"/>
+			<text x="16.87" y="592.99" class="st4" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>From all stages</text>		</g>
+		<g id="shape18-9" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(426.189,-325.276)">
+			<title>Dynamischer Verbinder</title>
+			<path d="M0 588.19 L75.89 588.19" class="st1"/>
+		</g>
+		<g id="shape26-14" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(147.402,-324.567)">
+			<title>Dynamischer Verbinder.26</title>
+			<desc>Arrival</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.5285" cy="588.189" width="80" height="27.2039"/>
+			<path d="M0 588.19 L128.02 588.19" class="st1"/>
+			<rect v:rectContext="textBkgnd" x="46.3293" y="578.589" width="44.3982" height="19.2005" class="st5"/>
+			<text x="46.33" y="592.99" class="st4" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Arrival</text>		</g>
+		<g id="shape37-21" v:mID="37" v:groupContext="shape" transform="translate(284.457,-267.874)">
+			<title>Rechteck.37</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="466.299" width="141.732" height="128.976" class="st6"/>
+		</g>
+		<g id="shape12-23" v:mID="12" v:groupContext="shape" transform="translate(511.122,-267.874)">
+			<title>Rechteck</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<g id="shadow12-24" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st7">
+				<rect x="0" y="466.299" width="141.732" height="128.976" class="st8"/>
+			</g>
+			<rect x="0" y="466.299" width="141.732" height="128.976" class="st9"/>
+		</g>
+		<g id="shape5-28" v:mID="5" v:groupContext="shape" transform="translate(516.437,-274.961)">
+			<title>Abgerundetes Rechteck.5</title>
+			<desc>Infected</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.18110236220472):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.18110236220472):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.18110236220472):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.18110236220472):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="65.1969" cy="537.874" width="130.4" height="114.803"/>
+			<path d="M13.04 595.28 L117.35 595.28 A13.0392 13.0392 -180 0 0 130.39 582.24 L130.39 493.51 A13.0392 13.0392 -180 0
+						 0 117.35 480.47 L13.04 480.47 A13.0392 13.0392 -180 0 0 0 493.51 L0 582.24 A13.0392 13.0392 -180 0 0 13.04
+						 595.28 Z" class="st10"/>
+			<text x="34.34" y="543.27" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Infected</text>		</g>
+		<g id="shape32-31" v:mID="32" v:groupContext="shape" transform="translate(470.02,-200.581)">
+			<title>Abgerundetes Rechteck.32</title>
+			<desc>Natural Death</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.16148924460418):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.16148924460418):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.16148924460418):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.16148924460418):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="65.1969" cy="583.648" width="130.4" height="23.2545"/>
+			<path d="M11.63 595.28 L118.77 595.28 A11.627 11.627 -180 0 0 130.39 583.65 A11.627 11.627 -180 0 0 118.77 572.02 L11.63
+						 572.02 A11.627 11.627 -180 0 0 -0 583.65 A11.627 11.627 -180 0 0 11.63 595.28 Z" class="st12"/>
+			<text x="18.26" y="588.45" class="st4" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Natural Death</text>		</g>
+		<g id="shape38-34" v:mID="38" v:groupContext="shape" transform="translate(290.026,-274.83)">
+			<title>Abgerundetes Rechteck.38</title>
+			<desc>Susceptible</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.18110236220472):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.18110236220472):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.18110236220472):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.18110236220472):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="65.1969" cy="537.874" width="130.4" height="114.803"/>
+			<path d="M13.04 595.28 L117.35 595.28 A13.0392 13.0392 -180 0 0 130.39 582.24 L130.39 493.51 A13.0392 13.0392 -180 0
+						 0 117.35 480.47 L13.04 480.47 A13.0392 13.0392 -180 0 0 0 493.51 L0 582.24 A13.0392 13.0392 -180 0 0 13.04
+						 595.28 Z" class="st13"/>
+			<text x="22.5" y="543.27" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Susceptible</text>		</g>
+	</g>
+</svg>
